@@ -1,0 +1,41 @@
+Privacy Policy for ReRoom
+
+1. Overview
+
+ReRoom ("we," "us," or "our") is committed to protecting the privacy of its users. This Privacy Policy outlines the types of information we may collect from users of our mobile application and how that information is used.
+
+2. Information We Collect
+
+Camera Permission:
+
+We request access to the camera on your device to enable [brief description of the purpose, e.g., capturing photos, scanning QR codes, etc.].
+Other Information:
+
+[List any other information you collect, e.g., device information, location data, etc.]
+3. How We Use the Information
+
+The information collected, including camera data, is used for the following purposes:
+
+[Specify the purpose of camera usage, e.g., capturing and processing images for app features].
+
+[Other purposes: Specify how other collected information is used].
+
+4. Sharing of Information
+
+We do not sell, trade, or otherwise transfer your information to third parties. However, we may share information with trusted third-party service providers who assist us in operating our application, conducting our business, or servicing you.
+
+5. Your Consent
+
+By using our application, you consent to our Privacy Policy.
+
+6. Security
+
+We implement a variety of security measures to maintain the safety of your personal information.
+
+7. Changes to This Privacy Policy
+
+We reserve the right to update or change our Privacy Policy at any time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+8. Contact Us
+
+If you have any questions or suggestions regarding our Privacy Policy, please contact us at [your contact information].
